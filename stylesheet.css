@@ -10,6 +10,7 @@ header{
 	background-color:rgba(176,195,227,0.5);
 	height:50px;
 	padding:15px 0;
+	width:100%;
 }
 .header-left p{
 	color:rgba(255,255,255,0.5);
@@ -26,6 +27,7 @@ li a{
 
 header{
 	margin:0;
+	width:100%;
 }
 
 .menu{
